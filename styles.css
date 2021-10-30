@@ -1,0 +1,81 @@
+/* title */
+
+  .bar{
+  background-color: #f5efe7;
+  font-family: "Ubuntu";
+  padding: 20px;
+  text-align: center;
+  word-spacing: 30px;
+  font-weight: bold;
+  cursor: default;
+
+}
+.bar li {
+  display: inline;
+}
+.main{
+  margin: 20px ;
+  font-size: 2.8rem;
+  font-family: "Cinzel";
+ color:     #a4843e;
+font-weight: normal;
+}
+.bar li:hover{
+  color:#ac3f21;
+}
+/* carousel */
+h5{
+  font-size: 3rem;
+
+}
+.carousel-caption p{
+  font-size: 2rem;
+  color: #ffffff;
+}
+/* testimonial */
+.testimonial-heading{
+  text-align: center;
+  color:  #0c2045;
+  font-family: "Ubuntu";
+  font-size: 3.5rem;
+  padding: 40px 30px 10px;
+}
+
+.start-para{
+text-align: center;
+color: #a4843e;
+padding: 2px;
+font-stretch: ultra-condensed;
+margin: 0 150px 0;
+}
+/* story */
+.story{
+  padding: 60px;
+}
+.story-image{
+  margin-left: 230px;
+  width: 40%;
+}
+.teller{
+margin-left: 150px;
+text-align: left;
+margin-top: 50px;
+}
+.story-lines{
+  padding: 10px;
+  color:#000;
+  font-size: 15px;
+line-height: 32px;
+  font-stretch: ultra-expanded;
+
+}
+.story-heading{
+  margin-left: 15px;
+  font-family: serif;
+  color:#a4843e;
+}
+.Jind{
+  margin:10px 5px 10px 10px;
+  font-size: 2rem;
+  color: #0c2045;
+}
